@@ -10,7 +10,7 @@ import {
 import { TransactionsContext } from "../../contexts/TransactionContext";
 
 export function Transaction() {
-   const { transaction } = useContext(TransactionsContext)
+   const { transactions } = useContext(TransactionsContext)
   return (
     <div>
       <Header />
@@ -20,7 +20,7 @@ export function Transaction() {
         <SearchForm />
         <TransactionsTable>
           <tbody>
-            {transaction.map((transaction) => {
+            {transactions.map((transaction) => {
               return (
                 <tr key={transaction.id}>
                   <td width="50%">{transaction.description}</td>
