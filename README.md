@@ -16,11 +16,6 @@ React Router Dom | ^6.3.0
 Radix UI (dialog and radio-group) | ^1.0.0
 React Hook Form | ^7.34.0
 JSON-Server | ^0.17.0 -D
-Layout (design by @millenakmartins) 🤩
 Desktop (screenshot):
 Home	Modal for new transaction
 <img src="https://github.com/jfernandesdev/dt-money-2/blob/dc7fe73c37a5a802b1d2795b94618ec6150a25e3/public/layout/desktop-1.png" />	<img src="https://github.com/jfernandesdev/dt-money-2/blob/dc7fe73c37a5a802b1d2795b94618ec6150a25e3/public/layout/desktop-2.png" />
-Mobile (screenshot):
-Home	Home	Modal
-<img src="https://github.com/jfernandesdev/dt-money-2/blob/dc7fe73c37a5a802b1d2795b94618ec6150a25e3/public/layout/mobile-1.png"  />	<img src="https://github.com/jfernandesdev/dt-money-2/blob/dc7fe73c37a5a802b1d2795b94618ec6150a25e3/public/layout/mobile-1-2.png"  />	<img src="https://github.com/jfernandesdev/dt-money-2/blob/dc7fe73c37a5a802b1d2795b94618ec6150a25e3/public/layout/mobile-2.png"  />
-
